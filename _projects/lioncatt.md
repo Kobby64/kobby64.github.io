@@ -31,9 +31,10 @@ This project was supported by the U.S. Department of Justice (DOJ), which awarde
 
 ## Principal Investigators
 
-* Dr. Kathryn Seigfried-Spellar
-* Dr. Julia Rayz
 * Prof. John Springer
+* Prof. Kathryn Seigfried-Spellar
+* Prof. Julia Rayz
+
 
 ## Impact
 
