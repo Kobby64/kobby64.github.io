@@ -5,7 +5,7 @@ description: The course introduces students to personal computing technologies a
 importance: 1
 year:	2026
 Institution: Purdue University
-Department: Computer and Information Technology
+Department: School of Applied and Creative Computing
 Role: Teaching Assistant
 Year: Fall 2025 / Spring 2026
 ---
