@@ -5,7 +5,7 @@ title: LION-CATT
 description: AI-Based Child Exploitation Detection and Digital Forensics Platform
 img: assets/img/lion-catt.jpg
 importance: 1
-category: cybersecurity
+category: work
 ---
 
 ## Overview
