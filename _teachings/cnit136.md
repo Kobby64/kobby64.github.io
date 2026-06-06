@@ -3,6 +3,7 @@ layout: course
 title: CNIT 136 Personal Computing Technology and Applications
 description: Course Instructor, Purdue University
 importance: 1
+year:	2026
 Institution: Purdue University
 Department: Computer and Information Technology
 Role: Teaching Assistant
