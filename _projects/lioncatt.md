@@ -23,7 +23,7 @@ This project was supported by the U.S. Department of Justice (DOJ), which awarde
 
 ## Principal Investigators
 
-* Prof. John Springer
+* Prof. John A. Springer
 * Prof. Kathryn Seigfried-Spellar
 * Prof. Julia Rayz
 
