@@ -31,3 +31,8 @@ This project was supported by the U.S. Department of Justice (DOJ), which awarde
 ## Impact
 
 LION-CATT contributes to the development of advanced cybersecurity and digital forensics technologies that assist law enforcement agencies in protecting vulnerable populations and combating online child exploitation.
+
+## News & Media Coverage
+
+### Purdue Polytechnic Institute
+(https://polytechnic.purdue.edu/newsroom/polytechnic-research-awards-october-2022)
