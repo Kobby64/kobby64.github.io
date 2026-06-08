@@ -1,7 +1,7 @@
 ---
 layout: page
-title: JuxEthics: AI Ethics Readiness Assessment Tool
-description: A Web-based tool for assessing responsible AI signals in public company disclosures
+title: "JuxEthics: AI Ethics Readiness Assessment Tool"
+description: "A Web-based tool for assessing responsible AI signals in public company disclosures"
 img: assets/img/juxethics.png
 importance: 2
 category: work
