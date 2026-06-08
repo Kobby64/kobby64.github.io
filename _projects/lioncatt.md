@@ -2,15 +2,14 @@
 
 layout: page
 title: LION-CATT
-description: AI-Based Child Exploitation Detection and Digital Forensics Platform
-img: assets/img/lion-catt.jpg
+description: Live-streaming Offender Network-based Chat Analysis Triage Tool.
 importance: 1
 category: work
 ---
 
 ## Overview
-
-LION-CATT (Live-streaming Offender Network-based Chat Analysis Triage Tool) is an artificial intelligence-based digital forensics platform designed to assist law enforcement agencies in detecting, capturing, and analyzing real-time data from live-streamed child sexual abuse investigations.The project focuses on supporting investigators through automated triage, evidence collection, and analysis of online communications associated with child exploitation crimes.
+Live-streaming Offender Network-based Chat Analysis Triage Tool (LION-CATT): The Capture and Analysis of Real-Time Data from Live-Streaming Child Sex Abuse Chats
+This is an artificial intelligence-based digital forensics platform designed to assist law enforcement agencies in detecting, capturing, and analyzing real-time data from live-streamed child sexual abuse investigations. The project focuses on supporting investigators through automated triage, evidence collection, and analysis of online communications associated with child exploitation crimes.
 
 
 ## My Role
