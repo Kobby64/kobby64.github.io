@@ -1,47 +1,40 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /contact/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: Get in touch.
 nav: true
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
+## Send a Message
 
-## GitHub users
+<form action="https://formspree.io/f/mykawbbw" method="POST">
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
+<input type="text"
+      name="name"
+      placeholder="Name"
+      required
+      style="width:100%; padding:12px; margin-bottom:15px;">
 
----
+<input type="email"
+      name="email"
+      placeholder="Email"
+      required
+      style="width:100%; padding:12px; margin-bottom:15px;">
 
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
+  <textarea name="message"
+            placeholder="Message"
+            required
+            style="width:100%; height:150px; padding:12px; margin-bottom:15px;"></textarea>
 
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
+<button type="submit"
+       style="padding:12px 24px; cursor:pointer;">
+Send </button>
 
----
+</form>
 
-{% endfor %}
-{% endif %}
-{% endif %}
 
-{% if site.data.repositories.github_repos %}
 
-## GitHub Repositories
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
+
