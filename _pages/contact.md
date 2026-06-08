@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Send a Message
 
-<form action="https://formspree.io/f/mykawbbw" method="POST">
+<form action="https://formspree.io/f/xojzdyoa" method="POST">
 
 <input type="text"
       name="name"
