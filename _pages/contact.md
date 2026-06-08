@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /contact/
-title: Get in touch
+title: Contact
+description: Get in touch.
 nav: true
 nav_order: 4
 ---
-
 
 
 <form action="https://formspree.io/f/xojzdyoa" method="POST">
