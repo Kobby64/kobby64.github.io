@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /contact/
-title: repositories
+title: contact
 description: Get in touch.
 nav: true
 nav_order: 4
 ---
 
-## Send a Message
+
 
 <form action="https://formspree.io/f/xojzdyoa" method="POST">
 
