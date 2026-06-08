@@ -3,6 +3,7 @@
 layout: page
 title: LION-CATT
 description: Live-streaming Offender Network-based Chat Analysis Triage Tool.
+img: assets/img/lion-catt.jpg
 importance: 1
 category: work
 ---
