@@ -10,3 +10,10 @@ description: You can download a copy of my CV here.
 toc:
   sidebar: left
 ---
+# Curriculum Vitae
+
+You can download a copy of my CV below.
+
+<a href="/assets/pdf/example_pdf.pdf" target="_blank">
+📄 Download CV
+</a>
