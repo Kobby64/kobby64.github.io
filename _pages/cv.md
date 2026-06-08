@@ -11,7 +11,12 @@ toc:
   sidebar: left
 ---
 
+<div class="text-center">
 
 <a href="/assets/pdf/example_pdf.pdf" target="_blank">
-📄 Download CV
+
+<i class="fas fa-file-pdf fa-7x"></i>
+
 </a>
+
+</div>
