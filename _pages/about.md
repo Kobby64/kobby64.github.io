@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate, Purdue University.
+subtitle: (pronounced: oh-FOR-ee MEN-sah)
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Purdue University</p>
-    <p>KSchool of Applied & Creative Computing</p>
+    <p>School of Applied & Creative Computing</p>
     <p> West Lafayette, Indiana</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
