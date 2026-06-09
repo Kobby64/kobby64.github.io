@@ -1,11 +1,11 @@
 ---
 layout: post
 date: 2026-05-01
-inline: false
+inline: true
 ---
 
 
-### Professional Updates
+### Recent Updates
 
 **May 2026** – Served as a reviewer for the 2nd ACM Virtual Global Computing Education Conference (SIGCSE 2026).
 
