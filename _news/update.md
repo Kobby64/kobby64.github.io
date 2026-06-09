@@ -4,7 +4,6 @@ date: 2026-05-01
 inline: true
 ---
 
-
 ### Recent Updates
 
 **May 2026** – Served as a reviewer for the 2nd ACM Virtual Global Computing Education Conference (SIGCSE 2026).
@@ -29,6 +28,6 @@ inline: true
 
 **April 2024** – Presented the poster *From Text to Timely Intervention: Leveraging Real-Time Data Streaming with CATT for Effective Online Safety Monitoring* at the Purdue Polytechnic Research Impact Area Student Poster Session.
 
-**May 2023 – May 2025** – Served as Treasurer and Founder of the Purdue Graduate Student Government.
+**May 2023** – Appointed  as Treasurer and Founder of the Purdue Graduate Student Government.
 
 **October 2022 – July 2025** – Served as Research Assistant in the Data Analytics, Technologies, & Applications (DATA) Lab at Purdue University, contributing to the Chat Analysis Triage Tool (CATT) and Live-streaming Offender Network-based Chat Analysis Triage Tool (LION-CATT) projects.
