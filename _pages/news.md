@@ -6,8 +6,6 @@ nav: true
 nav_order: 9
 ---
 
-
-
 ### Recent Updates
 
 **May 2026** – Served as a reviewer for the 2nd ACM Virtual Global Computing Education Conference (SIGCSE 2026).
