@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:"(pronounced: oh-FOR-ee MEN-sah)"
+subtitle: "(pronounced: oh-FOR-ee MEN-sah)"
 
 profile:
   align: right
