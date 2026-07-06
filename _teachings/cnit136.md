@@ -9,3 +9,6 @@ Department: School of Applied and Creative Computing
 Role: Teaching Assistant
 Year: Fall 2025 / Spring 2026
 ---
+
+ - [Download Course_Evaluation](/assets/pdf/course_evaluation.pdf)
+ - [Download Course_Syllabus](/assets/pdf/course_syllabus.pdf)
