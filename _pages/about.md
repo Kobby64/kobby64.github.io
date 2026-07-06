@@ -32,7 +32,7 @@ I am Ernest Ofori-Mensah, a Ph.D. Candidate in Computer and Information Technolo
 My research focuses on graph neural networks, long short-term memory models, cybersecurity, explainable artificial intelligence, AI safety, and responsible AI governance. My current work explores hybrid GAT-LSTM approaches for time-series network traffic anomaly detection, explainable AI approaches for social media and academic decline, and adaptive governance frameworks for AI safety. My broader research goal is to develop intelligent, explainable, and responsible AI systems that can support cybersecurity, digital safety, and trustworthy decision-making.
 
 
-##Research Interest
+##Research Interest##
 - AI Safety
 - AI Security
 - AI Ethics & Governance
