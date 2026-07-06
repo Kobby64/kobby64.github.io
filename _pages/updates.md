@@ -2,7 +2,7 @@
 layout: page
 title: updates
 permalink: /updates/
-nav: true
+nav: false
 nav_order: 10
 ---
 
