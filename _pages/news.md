@@ -1,12 +1,10 @@
 ---
 layout: page
-title: news
+title: Recent Updates
 permalink: /news/
 nav: true
 nav_order: 11
 ---
-
-### Recent Updates
 
 **May 2026** – Served as a reviewer for the 2nd ACM Virtual Global Computing Education Conference (SIGCSE 2026).
 
