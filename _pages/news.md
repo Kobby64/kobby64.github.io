@@ -5,7 +5,7 @@ permalink: /news/
 nav: true
 nav_order: 11
 ---
-
+## recent updates
 **May 2026** – Served as a reviewer for the 2nd ACM Virtual Global Computing Education Conference (SIGCSE 2026).
 
 **March 2026** – Presented *Graph Neural Networks (GNN) and LSTM for Time-Series Network Traffic Anomaly Detection: A Hybrid Approach* at the Purdue University DATA Lab Research Presentation Series.
