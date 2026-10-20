@@ -6,7 +6,7 @@ subtitle: "(pronounced: oh-FOR-ee MEN-sah)"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: image_enny.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Purdue University</p>
