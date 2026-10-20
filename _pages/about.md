@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research focuses on AI Ethics and Governance, AI Safety, and AI Security, with particular attention to the technical, ethical, and institutional challenges associated with artificial intelligence. I integrate computational methods, empirical evaluation, and sociotechnical analysis to examine AI governance practices, institutional accountability, human oversight, and the unintended consequences of AI safety interventions. My work also investigates the reliability, robustness, and explainability of AI-enabled technologies, with applications in cybersecurity, healthcare, and education. Across these areas, I seek to advance evidence-based approaches to evaluating AI-related risks, strengthening governance and security practices, and supporting the responsible development and deployment of AI technologies.
+My research focuses on AI Ethics and Governance, AI Safety and AI Security, with particular attention to the technical, ethical, and institutional challenges associated with artificial intelligence. I integrate computational methods, empirical evaluation, and sociotechnical analysis to examine AI governance practices, institutional accountability, human oversight, and the unintended consequences of AI safety interventions. My work also investigates the reliability, robustness, and explainability of AI-enabled technologies, with applications in cybersecurity, healthcare, and education. Across these areas, I seek to advance evidence-based approaches to evaluating AI-related risks, strengthening governance and security practices, and supporting the responsible development and deployment of AI technologies.
 
 
 ## research interest
