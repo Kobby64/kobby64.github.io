@@ -27,13 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Ernest Ofori-Mensah, a Ph.D. Candidate in Computer and Information Technology at Purdue University, West Lafayette. My research focuses on graph neural networks, long short-term memory models, cybersecurity, explainable artificial intelligence, AI safety, and responsible AI governance. My current work explores hybrid GAT-LSTM approaches for time-series network traffic anomaly detection, explainable AI approaches for social media and academic decline, and adaptive governance frameworks for AI safety. My broader research goal is to develop intelligent, explainable, and responsible AI systems that can support cybersecurity, digital safety, and trustworthy decision-making.
+My research focuses on AI Ethics and Governance, AI Safety, and AI Security, with particular attention to the technical, ethical, and institutional challenges associated with artificial intelligence. I integrate computational methods, empirical evaluation, and sociotechnical analysis to examine AI governance practices, institutional accountability, human oversight, and the unintended consequences of AI safety interventions. My work also investigates the reliability, robustness, and explainability of AI-enabled technologies, with applications in cybersecurity, healthcare, and education. Across these areas, I seek to advance evidence-based approaches to evaluating AI-related risks, strengthening governance and security practices, and supporting the responsible development and deployment of AI technologies.
 
 
 ## research interest
+- AI Ethics & Governance
 - AI Safety
 - AI Security
-- AI Ethics & Governance
-- Machine Learning
   
   
