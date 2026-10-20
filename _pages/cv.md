@@ -10,7 +10,7 @@ description: Please reach out for an updated copy of my CV.
 toc:
   sidebar: left
 ---
-
+<!--
 <div class="text-center">
 
 <a href="/assets/pdf/example_pdf.pdf" target="_blank">
@@ -20,3 +20,4 @@ toc:
 </a>
 
 </div>
+-->
