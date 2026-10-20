@@ -6,37 +6,67 @@ nav: true
 nav_order: 11
 ---
 
+### Recent Updates & Milestones
 
-**October 2026** – Published *The Hidden Tax of AI Safety: Residual Risk Redistribution in Automated Governance* in **Proceedings of the Ninth AAAI/ACM Conference on AI, Ethics, and Society (AIES-26)**.
+<br>
 
-**October 2026** –  Presented at the 9th AAAI/ACM Conference on AI, Ethics, and Society (AIES), Malmo, Sweden. 
+##### **2026**
 
-**July 2026** –  Served as a PC member and a reviewer for the 9th AAAI/ACM Conference on AI, Ethics, and Society (AIES), Malmö, Sweden.
+* **Oct 2026** | <span style="background-color: #e3f2fd; color: #0d47a1; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Publication</span>  
+  Published *"The Hidden Tax of AI Safety: Residual Risk Redistribution in Automated Governance"* in **Proceedings of the Ninth AAAI/ACM Conference on AI, Ethics, and Society (AIES-26)**.
 
-**July 2026** – Served as a Judge for the Purdue Summer Undergraduate Research Symposium.
+* **Oct 2026** | <span style="background-color: #e8f5e9; color: #1b5e20; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Talk</span>  
+  Presented at the **9th AAAI/ACM Conference on AI, Ethics, and Society (AIES)** — *Malmö, Sweden*.
 
-**May 2026** – Served as a reviewer for the 2nd ACM Virtual Global Computing Education Conference (SIGCSE 2026).
+* **Jul 2026** | <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Service</span>  
+  Served as a Program Committee (PC) Member and Reviewer for **AIES 2026** (*Malmö, Sweden*).
 
-**March 2026** – Presented *Graph Neural Networks (GNN) and LSTM for Time-Series Network Traffic Anomaly Detection: A Hybrid Approach* at the Purdue University DATA Lab Research Presentation Series.
+* **Jul 2026** | <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Service</span>  
+  Served as a Judge for the **Purdue Summer Undergraduate Research Symposium**.
 
-**February 2026** – Served as a reviewer for the IEEE Frontiers in Education (FIE 2026) Conference in Paphos, Cyprus.
+* **May 2026** | <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Service</span>  
+  Served as a Reviewer for the **2nd ACM Virtual Global Computing Education Conference (SIGCSE 2026)**.
 
-**September 2025** – Supported the LION-CATT project team in the delivery of a two-day technical workshop focused on deploying AI tools for U.S. law enforcement at Purdue University.
+* **Mar 2026** | <span style="background-color: #e8f5e9; color: #1b5e20; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Talk</span>  
+  Presented *"Graph Neural Networks (GNN) and LSTM for Time-Series Network Traffic Anomaly Detection: A Hybrid Approach"* at the **Purdue University DATA Lab Research Presentation Series**.
 
-**August 2025** – Appointed Teaching Assistant in the School of Applied and Creative Computing at Purdue University.
+* **Feb 2026** | <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Service</span>  
+  Served as a Reviewer for the **IEEE Frontiers in Education (FIE 2026)** Conference — *Paphos, Cyprus*.
 
-**August 2025** – Served as Vice Treasurer of the Purdue Graduate Student Organization.
+---
 
-**July 2025** – Published *Big Data Analytics for Cardiovascular Risk Prediction: Insights into Feature Importance* in **BMC Proceedings: Proceedings of the 6th National Big Data Health Science Conference**.
+##### **2025**
 
-**December 2024** – Published *Friend or Foe? AI and the Evolving Landscape of Ransomware-as-a-Service (RaaS)* in the **2024 IEEE Cyber Awareness and Research Symposium (CARS)** proceedings.
+* **Sep 2025** | <span style="background-color: #f3e5f5; color: #4a148c; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Workshop</span>  
+  Supported the LION-CATT project team in delivering a two-day technical workshop on deploying AI tools for U.S. law enforcement at **Purdue University**.
 
-**October 2024** – Published *Empowering Shared Mobility Vehicle Riders, Stopping Scams: A Cyber Kill Chain and Awareness Approach to QRishing on College Campuses* in the **2024 IEEE Cyber Awareness and Research Symposium (CARS)** proceedings.
+* **Aug 2025** | <span style="background-color: #efebe9; color: #3e2723; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Appointment</span>  
+  Appointed Teaching Assistant in the **School of Applied and Creative Computing**, Purdue University.
 
-**October 2024** – Presented two peer-reviewed papers at the IEEE 4th Cyber Awareness and Research Symposium (CARS 2024), University of North Dakota, Grand Forks, ND.
+* **Aug 2025** | <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Leadership</span>  
+  Served as Vice Treasurer of the **Purdue Graduate Student Organization**.
 
-**April 2024** – Presented the poster *From Text to Timely Intervention: Leveraging Real-Time Data Streaming with CATT for Effective Online Safety Monitoring* at the Purdue Polytechnic Research Impact Area Student Poster Session.
+* **Jul 2025** | <span style="background-color: #e3f2fd; color: #0d47a1; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Publication</span>  
+  Published *"Big Data Analytics for Cardiovascular Risk Prediction: Insights into Feature Importance"* in **BMC Proceedings (6th National Big Data Health Science Conference)**.
 
-**May 2023** – Appointed  as Treasurer and Founder of the Purdue Graduate Student Government.
+* **Oct 2022 – Jul 2025** | <span style="background-color: #efebe9; color: #3e2723; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Research</span>  
+  Graduate Research Assistant in the **DATA Lab**, Purdue University (contributed to CATT and LION-CATT projects).
 
-**October 2022 – July 2025** – Served as Research Assistant in the Data Analytics, Technologies, & Applications (DATA) Lab at Purdue University, contributing to the Chat Analysis Triage Tool (CATT) and Live-streaming Offender Network-based Chat Analysis Triage Tool (LION-CATT) projects.
+---
+
+##### **2024 & Earlier**
+
+* **Dec 2024** | <span style="background-color: #e3f2fd; color: #0d47a1; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Publication</span>  
+  Published *"Friend or Foe? AI and the Evolving Landscape of Ransomware-as-a-Service (RaaS)"* in the **2024 IEEE Cyber Awareness and Research Symposium (CARS)**.
+
+* **Oct 2024** | <span style="background-color: #e3f2fd; color: #0d47a1; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Publication</span>  
+  Published *"Empowering Shared Mobility Vehicle Riders, Stopping Scams: A Cyber Kill Chain and Awareness Approach to QRishing on College Campuses"* in **IEEE CARS 2024**.
+
+* **Oct 2024** | <span style="background-color: #e8f5e9; color: #1b5e20; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Talk</span>  
+  Presented two peer-reviewed papers at **IEEE CARS 2024** — *University of North Dakota, Grand Forks, ND*.
+
+* **Apr 2024** | <span style="background-color: #e8f5e9; color: #1b5e20; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Poster</span>  
+  Presented poster *"From Text to Timely Intervention: Leveraging Real-Time Data Streaming with CATT for Effective Online Safety Monitoring"* at **Purdue Polytechnic Research Impact Area Session**.
+
+* **May 2023** | <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Leadership</span>  
+  Appointed Treasurer and Founder of the **Purdue Graduate Student Government**.
