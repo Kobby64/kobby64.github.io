@@ -6,6 +6,15 @@ nav: true
 nav_order: 11
 ---
 
+
+**October 2026** – Published *The Hidden Tax of AI Safety: Residual Risk Redistribution in Automated Governance* in **Proceedings of the Ninth AAAI/ACM Conference on AI, Ethics, and Society (AIES-26)**.
+
+**October 2026** –  Presented at the 9th AAAI/ACM Conference on AI, Ethics, and Society (AIES), Malmo, Sweden. 
+
+**July 2026** –  Served as a PC member and a reviewer for the 9th AAAI/ACM Conference on AI, Ethics, and Society (AIES), Malmö, Sweden.
+
+**July 2026** – Served as a Judge for the Purdue Summer Undergraduate Research Symposium.
+
 **May 2026** – Served as a reviewer for the 2nd ACM Virtual Global Computing Education Conference (SIGCSE 2026).
 
 **March 2026** – Presented *Graph Neural Networks (GNN) and LSTM for Time-Series Network Traffic Anomaly Detection: A Hybrid Approach* at the Purdue University DATA Lab Research Presentation Series.
