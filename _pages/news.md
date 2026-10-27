@@ -12,7 +12,7 @@ nav_order: 11
 
 ##### **2026**
 * **Oct 2026** | <span style="background-color: #e8f5e9; color: #1b5e20; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Talk</span>  
-  Presented a paper *"A Comparative Study of Hybrid G-LSTM on Time-Series Data" **IEEE CARS 2026** — *University of North Dakota, Grand Forks, ND*.
+  Presented a paper *"A Comparative Study of Hybrid G-LSTM on Time-Series Data"* **IEEE CARS 2026** — *University of North Dakota, Grand Forks, ND*.
 
 * **Oct 2026** | <span style="background-color: #e3f2fd; color: #0d47a1; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Publication</span>  
   Published *"The Hidden Tax of AI Safety: Residual Risk Redistribution in Automated Governance"* in **Proceedings of the Ninth AAAI/ACM Conference on AI, Ethics, and Society (AIES-26)**.
