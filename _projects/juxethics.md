@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "JuxEthics: AI Ethics & Governance Assessment Tool"
