@@ -11,6 +11,9 @@ nav_order: 11
 <br>
 
 ##### **2026**
+* **Nov 2026** | <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Service</span>  
+  Served as a Judge for the **Purdue Fall Undergraduate Research Expo**.
+  
 * **Oct 2026** | <span style="background-color: #e8f5e9; color: #1b5e20; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Talk</span>  
   Presented a paper *"A Comparative Study of Hybrid G-LSTM on Time-Series Data"* **IEEE CARS 2026** — *University of North Dakota, Grand Forks, ND*.
 
